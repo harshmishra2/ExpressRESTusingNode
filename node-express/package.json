@@ -1,4 +1,16 @@
 {
+<<<<<<< HEAD
+  "name": "node-examples",
+  "version": "1.0.0",
+  "description": "Simple Node Examples",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+   	"start": "node index"
+  },
+  "author": "Harsh Mishra",
+  "license": "ISC"
+=======
   "name": "node-express",
   "version": "1.0.0",
   "description": "Node Express Examples",
@@ -10,7 +22,9 @@
   "author": "harsh mishra",
   "license": "ISC",
   "dependencies": {
+    "body-parser": "^1.18.3",
     "express": "^4.16.3",
     "morgan": "^1.9.0"
   }
+>>>>>>> dc390e5 (Express Simple REST)
 }
